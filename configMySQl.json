@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "aritel",
+    "database": "asw_report",
+    "port": 3306
+}

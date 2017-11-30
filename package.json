@@ -1,0 +1,42 @@
+{
+  "name": "gdes_pipeline",
+  "version": "1.0.2",
+  "description": "ASW-REPORT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariadna-Software/gdes_pipeline.git"
+  },
+  "keywords": [
+    "node",
+    "gdes_pipeline"
+  ],
+  "author": "'Rafael Garcia <'rafa@myariadna.com'>",
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/Ariadna-Software/gdes_pipeline/issues"
+  },
+  "homepage": "https://github.com/Ariadna-Software/gdes_pipelinea#readme",
+  "dependencies": {
+    "async": "^2.0.0",
+    "body-parser": "^1.14.0",
+    "connect": "^3.4.0",
+    "cors": "^2.7.1",
+    "edge": "^4.0.0",
+    "express": "^4.13.3",
+    "formidable": "^1.0.17",
+    "moment": "^2.10.6",
+    "multer": "^1.1.0",
+    "mysql": "^2.0.0",
+    "nodemailer": "2.4.2",
+    "numeral": "^1.5.3",
+    "serve-index": "^1.7.2",
+    "sprintf-js": "^1.0.3"
+  },
+  "devDependencies": {
+    "mysql": "^2.12.0"
+  }
+}
