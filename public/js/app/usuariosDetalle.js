@@ -60,7 +60,7 @@ var apiPaginaUsuariosDetalle = {
         self.nombre = ko.observable();
         self.codigoIdioma = ko.observable();
         self.esAdministrador = ko.observable();
-        self.login = ko.observable();
+        self.login = ko.ariteobservable();
         self.password = ko.observable();
 
         self.optionsGrupos = ko.observableArray([]);
